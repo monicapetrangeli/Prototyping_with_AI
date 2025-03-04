@@ -11,3 +11,7 @@ The app allows users to input their flight details and ratings to receive person
 ## What main difficulties did I find?
 Despite the large volume and variety of data available, several challenges arose during the development of the app. One significant issue was inconsistent input for the flight route. Sometimes, the route was recorded using city names, while other times it was provided as IATA airport codes. This inconsistency made it difficult to process the route correctly within the code. Converting all airport codes into cities is a time-consuming task, and although I’m actively working on it, this issue currently limits the ability to use the origin in the machine learning model and prevents the use of maps within the app.
 Another challenge was the limitations of Streamlit. While an easy-to-use and excellent tool for rapid prototyping, its lack of flexibility in design proved frustrating. For someone accustomed to working with HTML and CSS, the inability to adjust font sizes, margins, and other design elements made it difficult to achieve the desired level of customization and control over the app’s appearance.
+
+## Screen Capture requested
+Link:
+https://urledu-my.sharepoint.com/:v:/g/personal/monicaclara_petrangeli_alumni_esade_edu/EbK_HhHL7IpIlSlH0NeY6xAB0smlpC8jGmilqbeoY-WD1g?e=DkEuwC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
