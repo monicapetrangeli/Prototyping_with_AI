@@ -1,7 +1,7 @@
 # s1_MonicaClara_Petrangeli
 Assignment 1 for Prototyping with AI
 Run the following command in your terminal to install all dependencies:
-pip install -r requirements_assignment2.txt
+pip install -r requirements_assignment_1.txt
 
 ## Why did I choose this model?
 I chose the *Random Forest classifier model* to predict whether a flight should be recommended or not. This model was specifically created for this assignment, though it was inspired by my bachelor thesis. I wanted to delve deeper into airline reviews and explore the untapped value they hold.
