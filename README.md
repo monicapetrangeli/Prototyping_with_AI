@@ -1,6 +1,8 @@
 # s1_MonicaClara_Petrangeli
 Assignment 1 for Prototyping with AI
+
 Run the following command in your terminal to install all dependencies:
+
 pip install -r requirements_assignment_1.txt
 
 ## Why did I choose this model?
