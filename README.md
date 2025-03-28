@@ -1,5 +1,5 @@
-# s1_MonicaClara_Petrangeli
-Assignment 1 for Prototyping with AI
+# s2_MonicaClara_Petrangeli
+Assignment 2 for Prototyping with AI
 
 ## Why did I choose this model?
 I chose the *Random Forest classifier model* to predict whether a flight should be recommended or not. This model was specifically created for this assignment, though it was inspired by my bachelor thesis. I wanted to delve deeper into airline reviews and explore the untapped value they hold.
