@@ -1,5 +1,9 @@
 # s2_MonicaClara_Petrangeli
-Assignment 2 for Prototyping with AI is build upon assignment 1, imporving the previous version of the app
+Assignment 2 for Prototyping with AI is build upon assignment 1, imporving the previous version of the app.
+
+Run the following command in your terminal to install all dependencies:
+
+pip install -r requirements_assignment_2.txt
 
 ## What is the utility of the prototype?
 The **Airline Reviews Prediction App** is a valuable tool for travelers looking to make smarter flight decisions—whether it’s figuring out if a flight is worth recommending or getting a sense of what others thought of an airline. Powered by machine learning, the app predicts whether a flight is likely to be recommended based on key factors like seat comfort, food quality, cabin service, entertainment, and WiFi. Trained on over six thousand real reviews, the model captures what passengers really care about—a glimpse into the collective travel experience.
